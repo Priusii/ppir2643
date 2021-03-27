@@ -17,3 +17,13 @@ R
 "src/main/java/tasks/view/Main.java,a\4\a4e952c1a4765c6cf9a337826a42d32c3f95db7f
 X
 (src/main/java/tasks/services/TaskIO.java,2\6\26c7ae39591499fab3685c25bb4834dc2fc7cf24
+^
+.src/main/java/tasks/services/TasksService.java,7\d\7d63de46d8ec7dacaab386b187106455df813537
+W
+'src/main/java/tasks/model/TaskList.java,f\c\fc2a13256c261b5abd00e9188b5f42e29358bf6e
+U
+%src/test/java/ppir2643MV/AppTest.java,a\c\ac78eb0b4433c53bc21ed729b57dca015c33a72e
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+i
+9src/test/java/tasks/controller/NewEditControllerTest.java,3\7\37c5227067038b24989aac026b3d5deb3328aa53

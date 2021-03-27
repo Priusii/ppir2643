@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47cb4841-29b8-4afa-9d5e-d53c07f739d5" name="Default Changelist" comment="" />
+    <list default="true" id="47cb4841-29b8-4afa-9d5e-d53c07f739d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/controller/NewEditControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26c7ae39591499fab3685c25bb4834dc2fc7cf24" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26c7ae39591499fab3685c25bb4834dc2fc7cf24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppir2643.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/services/TaskIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/services/TaskIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ppir2643MV/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ppir2643MV/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -21,14 +40,24 @@
     </option>
   </component>
   <component name="ProjectId" id="1pfKr40f82p4RhxzLlVSF0mYVnd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="sonarlint" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tasks.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Alexandra Hulpoi\Desktop\materii\an3\sem2\VVSS\lab\ppir2643" />
       <recent name="C:\Users\Alexandra Hulpoi\Desktop\materii\an3\sem2\VVSS\lab\ppir2643\src\main" />
@@ -47,7 +76,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.NewEditControllerTest">
+    <configuration name="NewEditControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2643" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.controller" />
+      <option name="MAIN_CLASS_NAME" value="tasks.controller.NewEditControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewEditControllerTest.saveChanges3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2643" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.controller" />
+      <option name="MAIN_CLASS_NAME" value="tasks.controller.NewEditControllerTest" />
+      <option name="METHOD_NAME" value="saveChanges3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewEditControllerTest.saveChangesBVA1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2643" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.controller" />
+      <option name="MAIN_CLASS_NAME" value="tasks.controller.NewEditControllerTest" />
+      <option name="METHOD_NAME" value="saveChangesBVA1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewEditControllerTest.saveChangesBVA2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2643" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.controller" />
+      <option name="MAIN_CLASS_NAME" value="tasks.controller.NewEditControllerTest" />
+      <option name="METHOD_NAME" value="saveChangesBVA2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewEditControllerTest.saveChangesBVA4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2643" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.controller" />
+      <option name="MAIN_CLASS_NAME" value="tasks.controller.NewEditControllerTest" />
+      <option name="METHOD_NAME" value="saveChangesBVA4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ppir2643 [exec:java]" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -74,6 +182,15 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NewEditControllerTest" />
+        <item itemvalue="JUnit.NewEditControllerTest.saveChangesBVA1" />
+        <item itemvalue="JUnit.NewEditControllerTest.saveChangesBVA4" />
+        <item itemvalue="JUnit.NewEditControllerTest.saveChangesBVA2" />
+        <item itemvalue="JUnit.NewEditControllerTest.saveChanges3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -89,10 +206,25 @@
       <workItem from="1615747368331" duration="4323000" />
       <workItem from="1615753547949" duration="481000" />
       <workItem from="1615754054281" duration="1744000" />
+      <workItem from="1615802696778" duration="1744000" />
+      <workItem from="1616859825390" duration="10005000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

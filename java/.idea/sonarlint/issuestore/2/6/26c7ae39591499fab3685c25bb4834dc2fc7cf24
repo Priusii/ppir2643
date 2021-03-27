@@ -1,37 +1,37 @@
 
-n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ÌÔ;
-F
-java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
 t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ–ë“ûÿÿÿÿ
-E
-java:S2093M"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-E
-java:S2093\"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-H
-java:S2885"-Make "simpleDateFormat" an instance variable.(ËÒÌıøÿÿÿÿ
-{
-java:S1192R"eDefine a constant instead of duplicating this literal "IO exception reading or writing file" 4 times.(ÌÔü¦
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôâ»Ô
 U
 java:S1118":Add a private constructor to hide the implicit public one.(Ğœê†úÿÿÿÿ
+^	java:S125Á"<This block of commented-out lines of code should be removed.(À›¸Öûÿÿÿÿ8ßê©”ƒ/
+K
+java:S1481:"0Remove this unused "titleLength" local variable.(ìôå‰ÿÿÿÿÿ
+H
+java:S1659®"%Declare "seconds" on a separate line.(ÚåÏ¾üÿÿÿÿ8ßê©”ƒ/
+D
+java:S1659Ü"!Declare "end" on a separate line.(ÍôÁÑıÿÿÿÿ8ßê©”ƒ/
+{
+java:S1192Y"eDefine a constant instead of duplicating this literal "IO exception reading or writing file" 4 times.(ÌÔü¦
+H
+java:S2885"-Make "simpleDateFormat" an instance variable.(ËÒÌıøÿÿÿÿ
+H
+java:S1659®"%Declare "minutes" on a separate line.(ÚåÏ¾üÿÿÿÿ8ßê©”ƒ/
+E
+java:S20937"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093c"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S1659®"#Declare "hours" on a separate line.(ÚåÏ¾üÿÿÿÿ8ßê©”ƒ/
+=
+java:S1659œ"Declare "j" on a separate line.(±é…8ßê©”ƒ/
+E
+java:S2093T"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+B
+java:S1659»"Declare "j" on a separate line.(Ù é®şÿÿÿÿ8ßê©”ƒ/
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôâ»Ô
+u
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œÂÁñøÿÿÿÿ8ßê©”ƒ/
+F
+java:S2093ˆ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
 E
 java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-K
-java:S14813"0Remove this unused "titleLength" local variable.(ìôå‰ÿÿÿÿÿ
-E
-java:S20930"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
-u
-java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œÂÁñøÿÿÿÿ8ßê©”ƒ/
-F
-java:S1659§"#Declare "hours" on a separate line.(ÚåÏ¾üÿÿÿÿ8ßê©”ƒ/
-H
-java:S1659§"%Declare "minutes" on a separate line.(ÚåÏ¾üÿÿÿÿ8ßê©”ƒ/
-H
-java:S1659§"%Declare "seconds" on a separate line.(ÚåÏ¾üÿÿÿÿ8ßê©”ƒ/
-B
-java:S1659´"Declare "j" on a separate line.(Ù é®şÿÿÿÿ8ßê©”ƒ/
-^	java:S125º"<This block of commented-out lines of code should be removed.(À›¸Öûÿÿÿÿ8ßê©”ƒ/
-D
-java:S1659Õ"!Declare "end" on a separate line.(ÍôÁÑıÿÿÿÿ8ßê©”ƒ/
-=
-java:S1659•"Declare "j" on a separate line.(±é…8ßê©”ƒ/
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ÌÔ;

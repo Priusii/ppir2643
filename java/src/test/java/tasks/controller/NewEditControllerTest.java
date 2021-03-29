@@ -36,10 +36,16 @@ class NewEditControllerTest {
 
     @Test
     void saveChangesECP1() {
+
+        // Setup / Arrange
         Date startDateWithNoTime = dateService.getDateValueFromLocalDate(LocalDate.now());
         Date newStartDate = dateService.getDateMergedWithTime("12:00", startDateWithNoTime);
         Task task = new Task("Mc cu Dani", newStartDate);
+
+        // Act
         tasksList.add(task);
+
+        // Assert
         assertEquals(1, tasksList.size());
 
     }

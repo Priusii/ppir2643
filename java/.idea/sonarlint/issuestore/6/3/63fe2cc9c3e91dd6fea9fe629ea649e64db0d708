@@ -1,10 +1,10 @@
 
+6	java:S131Q""Add a default case to this switch.(¯ßğ
 T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
 P
-java:S2209s"5Change this instance-reference to a static reference.(éÊº²üÿÿÿÿ
-Q	java:S125\"<This block of commented-out lines of code should be removed.(Ô€‚’
-6	java:S131Q""Add a default case to this switch.(¯ßğ
-P
 java:S2209m"5Change this instance-reference to a static reference.(¹†³¹şÿÿÿÿ
+P
+java:S2209s"5Change this instance-reference to a static reference.(éÊº²üÿÿÿÿ
 `
 java:S1301Q"KReplace this "switch" statement by "if" statements to increase readability.(¯ßğ
+Q	java:S125\"<This block of commented-out lines of code should be removed.(Ô€‚’

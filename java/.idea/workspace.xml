@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47cb4841-29b8-4afa-9d5e-d53c07f739d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/665dec39384a747ccf12fd544bf02f4a3d18695a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/665dec39384a747ccf12fd544bf02f4a3d18695a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d63de46d8ec7dacaab386b187106455df813537" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d63de46d8ec7dacaab386b187106455df813537" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba27869b1e0ea8fe162ea3b4618a07816f29da05" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba27869b1e0ea8fe162ea3b4618a07816f29da05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecf3c385b36af4d118754ee8d9878c48978fcaa9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecf3c385b36af4d118754ee8d9878c48978fcaa9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f77a2442ed82eb8b7386f5c9a49162f894ad8a61" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f77a2442ed82eb8b7386f5c9a49162f894ad8a61" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/controller/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tasks/model/TasksOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/model/TasksOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/services/TasksService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/services/TasksService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="77" />
+    <option name="myElementSize" value="110" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,48 +85,23 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.TasksServiceTest">
-    <configuration name="NewEditControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ppir2643" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tasks.controller" />
-      <option name="MAIN_CLASS_NAME" value="tasks.controller.NewEditControllerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewEditControllerTest.saveChangesBVA1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ppir2643" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tasks.controller" />
-      <option name="MAIN_CLASS_NAME" value="tasks.controller.NewEditControllerTest" />
-      <option name="METHOD_NAME" value="saveChangesBVA1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TasksServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppir2643" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tasks.services.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="tasks.model.TasksOperations" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tasks.services" />
       <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,23 +127,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasksServiceTestWBT" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration name="TasksServiceTest.WBT_filterTasks_empty_list_valid_0_tasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppir2643" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tasks.services.*" />
-          <option name="ENABLED" value="false" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="tasks.model.TasksOperations" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tasks.services" />
       <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
-      <option name="METHOD_NAME" value="WBT_filterTasks_valid_all_tasks" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="PARAMETERS" value="" />
+      <option name="METHOD_NAME" value="WBT_filterTasks_empty_list_valid_0_tasks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TasksServiceTest.WBT_filterTasks_invalid_0_tasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2643" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.services" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
+      <option name="METHOD_NAME" value="WBT_filterTasks_invalid_0_tasks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TasksServiceTest.WBT_filterTasks_invalid_throws_error" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2643" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.services" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
+      <option name="METHOD_NAME" value="WBT_filterTasks_invalid_throws_error" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TasksServiceTest.WBT_filterTasks_valid_0_tasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2643" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tasks.services" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTest" />
+      <option name="METHOD_NAME" value="WBT_filterTasks_valid_0_tasks" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,19 +218,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.NewEditControllerTest" />
-      <item itemvalue="JUnit.NewEditControllerTest.saveChangesBVA1" />
+      <item itemvalue="JUnit.TasksServiceTest.WBT_filterTasks_invalid_0_tasks" />
+      <item itemvalue="JUnit.TasksServiceTest.WBT_filterTasks_valid_0_tasks" />
+      <item itemvalue="JUnit.TasksServiceTest.WBT_filterTasks_empty_list_valid_0_tasks" />
+      <item itemvalue="JUnit.TasksServiceTest.WBT_filterTasks_invalid_throws_error" />
       <item itemvalue="JUnit.TasksServiceTest" />
-      <item itemvalue="JUnit.TasksServiceTestWBT" />
       <item itemvalue="Maven.ppir2643 [exec:java]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TasksServiceTest" />
-        <item itemvalue="JUnit.TasksServiceTestWBT" />
-        <item itemvalue="JUnit.TasksServiceTest" />
-        <item itemvalue="JUnit.NewEditControllerTest" />
-        <item itemvalue="JUnit.NewEditControllerTest.saveChangesBVA1" />
+        <item itemvalue="JUnit.TasksServiceTest.WBT_filterTasks_invalid_throws_error" />
+        <item itemvalue="JUnit.TasksServiceTest.WBT_filterTasks_invalid_0_tasks" />
+        <item itemvalue="JUnit.TasksServiceTest.WBT_filterTasks_empty_list_valid_0_tasks" />
+        <item itemvalue="JUnit.TasksServiceTest.WBT_filterTasks_valid_0_tasks" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +252,8 @@
       <workItem from="1615802696778" duration="1744000" />
       <workItem from="1616859825390" duration="10005000" />
       <workItem from="1617012498595" duration="1006000" />
-      <workItem from="1618157115350" duration="4690000" />
+      <workItem from="1618157115350" duration="4919000" />
+      <workItem from="1618222917593" duration="5245000" />
     </task>
     <servers />
   </component>
@@ -248,7 +277,7 @@
     <SUITE FILE_PATH="coverage/java$TasksServiceTestWBT.ic" NAME="TasksServiceTestWBT Coverage Results" MODIFIED="1618163039452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>tasks.model.TasksOperations</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/java$TasksServiceTest.ic" NAME="TasksServiceTest Coverage Results" MODIFIED="1618163135455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/java$TasksServiceTest.ic" NAME="TasksServiceTest Coverage Results" MODIFIED="1618230217465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>tasks.model.TasksOperations</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/java$TasksServiceTest_WBT_filterTasks_invalid_no_tasks.ic" NAME="TasksServiceTest.WBT_filterTasks_invalid_no_tasks Coverage Results" MODIFIED="1618162791250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -27,3 +27,7 @@ U
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 i
 9src/test/java/tasks/controller/NewEditControllerTest.java,3\7\37c5227067038b24989aac026b3d5deb3328aa53
+^
+.src/main/java/tasks/model/TasksOperations.java,4\f\4f01b9f8917f794cdf589fb86ab1f8dec2bc64a1
+b
+2src/test/java/tasks/services/TasksServiceTest.java,1\e\1ed2e4afe6f0e30a24669299239d591463d36916

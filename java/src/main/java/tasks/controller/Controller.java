@@ -129,7 +129,7 @@ public class Controller {
         }
     }
     @FXML
-    public void showFilteredTasks(){
+    public void showFilteredTasks() throws Exception {
         Date start = getDateFromFilterField(datePickerFrom.getValue(), fieldTimeFrom.getText());
         Date end = getDateFromFilterField(datePickerTo.getValue(), fieldTimeTo.getText());
 

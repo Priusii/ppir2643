@@ -23,10 +23,12 @@ public class TasksOperations {
         }
 
         if (tasks.isEmpty()) {
+            System.out.println("isEmpty()");
             return incomingTasks;
         }
         for (Task t : tasks) {
             Date nextTime = t.getStartTime();
+            System.out.println(nextTime);
             if (nextTime != null && nextTime.before(end)) {
                 incomingTasks.add(t);
                 System.out.println(t.getTitle());

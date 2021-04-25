@@ -7,7 +7,7 @@ import tasks.model.ArrayTaskList;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.mock;
 
-class TaskServiceTestStep1 {
+class TaskServiceStep1Test {
     private TasksService tasksService;
 
     @BeforeEach

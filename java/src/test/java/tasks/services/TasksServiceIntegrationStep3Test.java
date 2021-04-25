@@ -9,7 +9,7 @@ import tasks.model.Task;
 import java.util.ArrayList;
 import java.util.Date;
 
-class TasksServiceTestIntegrationStep3 {
+class TasksServiceIntegrationStep3Test {
     ArrayTaskList arrayTaskList;
     TasksService tasksService;
 

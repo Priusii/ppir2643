@@ -8,7 +8,7 @@ import java.util.Date;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TaskTestStep1 {
+class TaskStep1Test {
     private Task task;
 
     @BeforeEach

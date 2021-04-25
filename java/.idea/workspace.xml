@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47cb4841-29b8-4afa-9d5e-d53c07f739d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceTestIntegrationStep3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/services/TaskServiceTestIntegrationStep3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/model/ArrayTaskListTestStep1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/model/ArrayTaskListStep1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/model/TaskTestStep1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/model/TaskStep1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/services/TaskServiceTestStep1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TaskServiceStep1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceTestIntegrationStep2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceIntegrationStep2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceTestIntegrationStep3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tasks/services/TasksServiceIntegrationStep3Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,8 +80,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TasksServiceTestIntegrationStep3">
-    <configuration name="ArrayTaskListTestStep1.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TasksServiceIntegrationStep3Test">
+    <configuration name="ArrayTaskListStep1Test.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppir2643" />
       <extension name="coverage">
         <pattern>
@@ -87,14 +90,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tasks.model" />
-      <option name="MAIN_CLASS_NAME" value="tasks.model.ArrayTaskListTestStep1" />
+      <option name="MAIN_CLASS_NAME" value="tasks.model.ArrayTaskListStep1Test" />
       <option name="METHOD_NAME" value="remove" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTestStep1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TaskStep1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppir2643" />
       <extension name="coverage">
         <pattern>
@@ -103,13 +106,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tasks.model" />
-      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskTestStep1" />
+      <option name="MAIN_CLASS_NAME" value="tasks.model.TaskStep1Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasksServiceTestIntegrationStep2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TasksServiceIntegrationStep2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppir2643" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +121,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTestIntegrationStep2" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceIntegrationStep2Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasksServiceTestIntegrationStep2.filterTasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TasksServiceIntegrationStep2Test.filterTasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppir2643" />
       <extension name="coverage">
         <pattern>
@@ -133,14 +136,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTestIntegrationStep2" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceIntegrationStep2Test" />
       <option name="METHOD_NAME" value="filterTasks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasksServiceTestIntegrationStep3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TasksServiceIntegrationStep3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppir2643" />
       <extension name="coverage">
         <pattern>
@@ -149,7 +152,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tasks.services" />
-      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceTestIntegrationStep3" />
+      <option name="MAIN_CLASS_NAME" value="tasks.services.TasksServiceIntegrationStep3Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -204,19 +207,19 @@
     </configuration>
     <list>
       <item itemvalue="Maven.ppir2643 [exec:java]" />
-      <item itemvalue="JUnit.ArrayTaskListTestStep1.remove" />
-      <item itemvalue="JUnit.TaskTestStep1" />
-      <item itemvalue="JUnit.TasksServiceTestIntegrationStep2" />
-      <item itemvalue="JUnit.TasksServiceTestIntegrationStep2.filterTasks" />
-      <item itemvalue="JUnit.TasksServiceTestIntegrationStep3" />
+      <item itemvalue="JUnit.ArrayTaskListStep1Test.remove" />
+      <item itemvalue="JUnit.TaskStep1Test" />
+      <item itemvalue="JUnit.TasksServiceIntegrationStep2Test" />
+      <item itemvalue="JUnit.TasksServiceIntegrationStep2Test.filterTasks" />
+      <item itemvalue="JUnit.TasksServiceIntegrationStep3Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TasksServiceTestIntegrationStep3" />
-        <item itemvalue="JUnit.TasksServiceTestIntegrationStep2" />
-        <item itemvalue="JUnit.TasksServiceTestIntegrationStep2.filterTasks" />
-        <item itemvalue="JUnit.TaskTestStep1" />
-        <item itemvalue="JUnit.ArrayTaskListTestStep1.remove" />
+        <item itemvalue="JUnit.TasksServiceIntegrationStep3Test" />
+        <item itemvalue="JUnit.TasksServiceIntegrationStep2Test" />
+        <item itemvalue="JUnit.TasksServiceIntegrationStep2Test.filterTasks" />
+        <item itemvalue="JUnit.TaskStep1Test" />
+        <item itemvalue="JUnit.ArrayTaskListStep1Test.remove" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +242,7 @@
       <workItem from="1617012498595" duration="1006000" />
       <workItem from="1618157115350" duration="4919000" />
       <workItem from="1618222917593" duration="5245000" />
-      <workItem from="1619363732182" duration="6634000" />
+      <workItem from="1619363732182" duration="8315000" />
     </task>
     <servers />
   </component>

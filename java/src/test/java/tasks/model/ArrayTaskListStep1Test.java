@@ -4,7 +4,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
-class ArrayTaskListTestStep1 {
+class ArrayTaskListStep1Test {
     ArrayTaskList arrayTaskList;
     Task task = Mockito.mock(Task.class);
 

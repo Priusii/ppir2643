@@ -14,7 +14,7 @@ import java.util.Date;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
 
-class TasksServiceTestIntegrationStep2 {
+class TasksServiceIntegrationStep2Test {
     ArrayTaskList arrayTaskList;
     TasksService tasksService;
     Task task1;
